@@ -1,0 +1,12 @@
+{
+  "name": "LambdaLabs-Practice",
+  "version": "1.0.0",
+  "description": "practice repo",
+  "main": "index.js",
+  "repository": "https://github.com/cori-peck/LambdaLabs-Practice.git",
+  "author": "cori-peck <cori.peck@ymail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "auth0-js": "^9.10.2"
+  }
+}
